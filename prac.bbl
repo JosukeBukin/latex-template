@@ -1,0 +1,73 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{overleaf-xelatex}{online}{}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labeltitlesource}{title}
+      \field{title}{XeLaTeX и Overleaf}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.overleaf.com/learn/latex/XeLaTeX
+      \endverb
+      \verb{url}
+      \verb https://www.overleaf.com/learn/latex/XeLaTeX
+      \endverb
+    \endentry
+    \entry{overleaf-tables}{online}{}
+      \field{sortinit}{Г}
+      \field{sortinithash}{c5a772f362f759c048c1f27b275f0dbf}
+      \field{labeltitlesource}{title}
+      \field{title}{Гайд по таблицам}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.overleaf.com/learn/latex/Tables#Reference_guide
+      \endverb
+      \verb{url}
+      \verb https://www.overleaf.com/learn/latex/Tables#Reference_guide
+      \endverb
+    \endentry
+    \entry{overleaf}{online}{}
+      \field{sortinit}{Р}
+      \field{sortinithash}{72653a62bb3cb54ced08865870aff9d6}
+      \field{labeltitlesource}{title}
+      \field{title}{Редактор текста Overleaf}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.overleaf.com/
+      \endverb
+      \verb{url}
+      \verb https://www.overleaf.com/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

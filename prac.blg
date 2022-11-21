@@ -1,0 +1,28 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'prac.blg'
+[107] biber:340> INFO - === Пн ноя 21, 2022, 17:29:15
+[127] Biber.pm:418> INFO - Reading 'prac.bcf'
+[246] Biber.pm:972> INFO - Found 3 citekeys in bib section 0
+[265] Biber.pm:4383> INFO - Processing section 0
+[277] Biber.pm:4574> INFO - Looking for bibtex file 'prac.bib' for section 0
+[278] bibtex.pm:1713> INFO - LaTeX decoding ...
+[281] bibtex.pm:1518> INFO - Found BibTeX data source 'prac.bib'
+[329] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[329] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[329] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
+[329] Biber.pm:4209> INFO - No sort tailoring available for locale 'ru-RU'
+[337] bbl.pm:654> INFO - Writing 'prac.bbl' with encoding 'UTF-8'
+[338] bbl.pm:757> INFO - Output to prac.bbl
+[338] Biber.pm:130> WARN - Unknown field 'volume' found in sorting template
+[338] Biber.pm:130> WARN - Unknown field 'book' found in sorting template
+[338] Biber.pm:130> WARN - Unknown field 'part' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'issue' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'volume' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'book' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'part' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'issue' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'volume' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'book' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'part' found in sorting template
+[339] Biber.pm:130> WARN - Unknown field 'issue' found in sorting template
+[339] Biber.pm:132> INFO - WARNINGS: 12
